@@ -1,9 +1,1 @@
-hello
-yyyyttt
-update1
-11
-1122
-finalqq
-hh
-mul file1
-BugId::32681
+git commit -a -m "BugId::B-10300,32682"
